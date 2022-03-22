@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/wof4/book-library/static/css/main.391e446f.css",
+    "main.js": "/wof4/book-library/static/js/main.76deba68.js",
+    "static/media/alfons-morales-YLSwjSy7stw-unsplash (1).jpg": "/wof4/book-library/static/media/alfons-morales-YLSwjSy7stw-unsplash (1).9819024de09fbacf9a08.jpg",
+    "index.html": "/wof4/book-library/index.html",
+    "main.391e446f.css.map": "/wof4/book-library/static/css/main.391e446f.css.map",
+    "main.76deba68.js.map": "/wof4/book-library/static/js/main.76deba68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.391e446f.css",
+    "static/js/main.76deba68.js"
+  ]
+}
